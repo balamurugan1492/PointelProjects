@@ -1,0 +1,8 @@
+D:\Elango\R&D\ClickOnceRegistry\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.csprojResolveAssemblyReference.cache
+D:\Elango\R&D\ClickOnceRegistry\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.Properties.Resources.resources
+D:\Elango\R&D\ClickOnceRegistry\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.csproj.GenerateResource.Cache
+D:\Elango\R&D\ClickOnceRegistry\Debug\uninstall.exe.config
+D:\Elango\R&D\ClickOnceRegistry\Debug\uninstall.exe
+D:\Elango\R&D\ClickOnceRegistry\Debug\uninstall.pdb
+D:\Elango\R&D\ClickOnceRegistry\CustomizedClickOnce.Uninstall\obj\Debug\uninstall.exe
+D:\Elango\R&D\ClickOnceRegistry\CustomizedClickOnce.Uninstall\obj\Debug\uninstall.pdb

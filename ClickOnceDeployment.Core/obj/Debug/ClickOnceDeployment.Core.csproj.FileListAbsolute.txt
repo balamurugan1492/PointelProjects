@@ -1,0 +1,117 @@
+D:\ClickOnce R&D\ApplicationManifest\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.csprojResolveAssemblyReference.cache
+D:\ClickOnce R&D\ApplicationManifest\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.dll
+D:\ClickOnce R&D\ApplicationManifest\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.pdb
+D:\ClickOnce R&D\ApplicationManifest\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.dll
+D:\ClickOnce R&D\ApplicationManifest\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.pdb
+D:\ClickOnce R&D\ApplicationManifest\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.dll
+D:\ClickOnce R&D\ApplicationManifest\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.pdb
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.dll
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.dll
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.csprojResolveAssemblyReference.cache
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.dll
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.pdb
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.dll
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.Logger.Core.dll
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\ClickOnceDeployment.Core\bin\Debug\log4net.dll
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\FromTeam\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\FromTeam\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\FromTeam\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\FromTeam\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\FromTeam\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\FromTeam\Source\ClickOnceDeployment.Core\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\FromTeam\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\FromTeam\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\FromTeam\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\FromTeam\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\FromTeam\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Source\ClickOnceDeployment.Core\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\ClickOnceDeployment.Core\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\ClickOnceDeployment.Core\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\ClickOnceDeployment.Core\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\ClickOnceDeployment.Core\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\ClickOnceDeployment.Core\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\ClickOnceDeployment.Core\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\ClickOnceDeployment.Core\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\ClickOnceDeployment.Core\obj\Debug\ClickOnceDeployment.Core.pdb

@@ -1,0 +1,7 @@
+D:\Sample WorkOut Projects\Lucence.net\lucenceSample\lucenceSample\bin\Debug\lucenceSample.exe
+D:\Sample WorkOut Projects\Lucence.net\lucenceSample\lucenceSample\bin\Debug\lucenceSample.pdb
+D:\Sample WorkOut Projects\Lucence.net\lucenceSample\lucenceSample\bin\Debug\Lucene.Net.dll
+D:\Sample WorkOut Projects\Lucence.net\lucenceSample\lucenceSample\bin\Debug\Lucene.Net.xml
+D:\Sample WorkOut Projects\Lucence.net\lucenceSample\lucenceSample\obj\x86\Debug\lucenceSample.csprojResolveAssemblyReference.cache
+D:\Sample WorkOut Projects\Lucence.net\lucenceSample\lucenceSample\obj\x86\Debug\lucenceSample.exe
+D:\Sample WorkOut Projects\Lucence.net\lucenceSample\lucenceSample\obj\x86\Debug\lucenceSample.pdb

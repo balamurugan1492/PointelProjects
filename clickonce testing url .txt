@@ -1,0 +1,18 @@
+same version diff url and diff publisher name 
+output:
+error:
+Unable to install this application because an application with the same identity is already installed. To install this application, either modify the manifest version for this application or uninstall the preexisting application.
+
+
+diff version:
+output:
+update into previuos version
+
+
+diff assembly name(.exe) and diff url same publish name or diff 
+
+output:
+two app installed on one machine. 
+
+
+

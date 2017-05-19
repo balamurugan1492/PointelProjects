@@ -1,0 +1,4 @@
+D:\Elango\R&D\ClickOnceRegistry\Debug\CustomizedClickOnce.Common.dll
+D:\Elango\R&D\ClickOnceRegistry\Debug\CustomizedClickOnce.Common.pdb
+D:\Elango\R&D\ClickOnceRegistry\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.dll
+D:\Elango\R&D\ClickOnceRegistry\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.pdb

@@ -1,0 +1,9 @@
+D:\Sample WorkOut Projects\Lucence.net\Lucence.netSample\Lucence.netSample\bin\Debug\Lucence.netSample.exe
+D:\Sample WorkOut Projects\Lucence.net\Lucence.netSample\Lucence.netSample\bin\Debug\Lucence.netSample.pdb
+D:\Sample WorkOut Projects\Lucence.net\Lucence.netSample\Lucence.netSample\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Sample WorkOut Projects\Lucence.net\Lucence.netSample\Lucence.netSample\bin\Debug\Lucene.Net.dll
+D:\Sample WorkOut Projects\Lucence.net\Lucence.netSample\Lucence.netSample\bin\Debug\Lucene.Net.pdb
+D:\Sample WorkOut Projects\Lucence.net\Lucence.netSample\Lucence.netSample\bin\Debug\Lucene.Net.xml
+D:\Sample WorkOut Projects\Lucence.net\Lucence.netSample\Lucence.netSample\obj\x86\Debug\Lucence.netSample.csprojResolveAssemblyReference.cache
+D:\Sample WorkOut Projects\Lucence.net\Lucence.netSample\Lucence.netSample\obj\x86\Debug\Lucence.netSample.exe
+D:\Sample WorkOut Projects\Lucence.net\Lucence.netSample\Lucence.netSample\obj\x86\Debug\Lucence.netSample.pdb

@@ -1,0 +1,11 @@
+Needed:
+
+1.IIS
+
+2.IIS path access
+
+3.implement the command for download config file from server.
+
+%windir%\system32\inetsrv\appcmd.exe set config -section:system.webServer/security/requestFiltering /-fileExtensions.[fileExtension='.config']
+
+4.dot net 4.5framework

@@ -1,0 +1,10 @@
+C:\Users\balamurugan\Desktop\Pointel.Interactions.TeamCommunicator\obj\Debug\WinForms\Favorites.baml
+C:\Users\balamurugan\Desktop\Pointel.Interactions.TeamCommunicator\obj\Debug\WinForms\MessageBox.baml
+C:\Users\balamurugan\Desktop\Pointel.Interactions.TeamCommunicator\obj\Debug\WinForms\Favorites.g.cs
+C:\Users\balamurugan\Desktop\Pointel.Interactions.TeamCommunicator\obj\Debug\WinForms\MessageBox.g.cs
+C:\Users\balamurugan\Desktop\Pointel.Interactions.TeamCommunicator\obj\Debug\Pointel.Interactions.TeamCommunicator_MarkupCompile.cache
+D:\sample from team\Pointel.Interactions.TeamCommunicator\obj\Debug\WinForms\Favorites.baml
+D:\sample from team\Pointel.Interactions.TeamCommunicator\obj\Debug\WinForms\MessageBox.baml
+D:\sample from team\Pointel.Interactions.TeamCommunicator\obj\Debug\WinForms\Favorites.g.cs
+D:\sample from team\Pointel.Interactions.TeamCommunicator\obj\Debug\WinForms\MessageBox.g.cs
+D:\sample from team\Pointel.Interactions.TeamCommunicator\obj\Debug\Pointel.Interactions.TeamCommunicator_MarkupCompile.cache
