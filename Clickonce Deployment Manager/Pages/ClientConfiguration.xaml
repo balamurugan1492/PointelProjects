@@ -1,0 +1,68 @@
+﻿<Page x:Class="ClickOnce_Deployment_Manager_64.Pages.ClientConfiguration"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d" Loaded="Page_Loaded"
+	Title="ClientConfiguration">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" BorderBrush="#ACA899" BorderThickness="0,0,0,1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="414*" />
+                    <ColumnDefinition Width="89*" />
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.ColumnSpan="2">
+                    <TextBlock Margin="10" TextWrapping="WrapWithOverflow" FontWeight="Bold" Width="400" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top">Client Configuration</TextBlock>
+                    <TextBlock TextWrapping="WrapWithOverflow" Margin="10,0,0,0" Width="400"  HorizontalAlignment="Left" VerticalAlignment="Top">Enter the configuration of the client application</TextBlock>
+                </StackPanel>
+                <Image Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Source="/Clickonce%20Deployment%20Manager;component/Images/logo.ico" Height="48" Width="48" Margin="0,10"></Image>
+            </Grid>
+        </Border>
+        <Grid Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10" Width="480">
+            <Grid.Resources>
+                <Style TargetType="{x:Type TextBox}">
+                    <Setter Property="Margin" Value="0,0,0,10" />
+                    <Setter Property="Width" Value="350" />
+                    <Setter Property="Height" Value="25" />
+                    <Setter Property="Padding" Value="2,2,2,2" />
+                </Style>
+            </Grid.Resources>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition  Width="117*" />
+                <ColumnDefinition Width="363*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="46*"></RowDefinition>
+                <RowDefinition Height="25*"></RowDefinition>
+                <RowDefinition Height="35*"></RowDefinition>
+                <RowDefinition Height="35*"></RowDefinition>
+                <RowDefinition Height="35*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock LineHeight="20" TextWrapping="WrapWithOverflow" Grid.ColumnSpan="2" Margin="0,6,0,9">Specify the host name/port number on which Genesys Configuration Server is running and the client application name</TextBlock>
+            <Label Grid.Row="1" Grid.Column="0" Content="Application Name :" HorizontalAlignment="Right"></Label>
+            <TextBox  Name="txtApplicationName" Grid.Column="2" Grid.Row="1" ></TextBox>
+            <Label Grid.Row="2" Grid.Column="0" Content="Host Name :" HorizontalAlignment="Right"></Label>
+            <TextBox Name="txtHostName" Grid.Column="2"   Grid.Row="2"   ></TextBox>
+            <Label Grid.Row="3" Grid.Column="0" Content="Port Number :" HorizontalAlignment="Right"></Label>
+            <TextBox Name="txtPortNumber" Grid.Column="2" Grid.Row="3"   VerticalAlignment="Top" PreviewTextInput="txtPortNumber_PreviewTextInput" MaxLength="5"></TextBox>
+            <!--<Label Grid.Row="4" Grid.Column="0" Content="Update Feature :" HorizontalAlignment="Right"></Label>
+            <StackPanel Grid.Row="4" Grid.Column="2"  VerticalAlignment="Center">
+                <DockPanel Margin="5">
+                    <RadioButton GroupName="update" Name="AutoRadioButton" DockPanel.Dock="Left" Margin="10,0,0,0" IsChecked="True" Checked="AutoRadioButton_Checked">Auto</RadioButton>
+                    <RadioButton GroupName="update" Name="ManualRadioButton" Checked="ManualRadioButton_Checked"   Margin="10,0,0,0">Manual</RadioButton>
+                </DockPanel>
+            </StackPanel>-->
+
+            <!--<CheckBox Name="ChbPrequesiteInstall" Content="Allow the end-uder to install the .NET Framework if it is not already installed" Grid.Row="4" Grid.ColumnSpan="2"></CheckBox>-->
+        </Grid>
+    </Grid>
+</Page>

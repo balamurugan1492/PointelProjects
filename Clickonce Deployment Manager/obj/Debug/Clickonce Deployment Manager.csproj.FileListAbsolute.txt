@@ -1,0 +1,475 @@
+D:\Project\ClickOnce\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.pdb
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\bin\Debug\log4net.dll
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csprojResolveAssemblyReference.cache
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.baml
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\Style.baml
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.baml
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.baml
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.baml
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.baml
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.baml
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.baml
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.g.cs
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.g.cs
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.g.cs
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.g.cs
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.g.cs
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.g.cs
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.g.cs
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.g.cs
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\App.g.cs
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.cache
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.lref
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.baml
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.g.resources
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\Clickonce_Deployment_Manager.Properties.Resources.resources
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csproj.GenerateResource.Cache
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.pdb
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.dll
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.dll
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\bin\Debug\Pointel.Logger.Core.dll
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.dll
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\D Drive\Sakthikumar\Projects\Clickonce Deployment\Updated Code\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.manifest
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.application
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.baml
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\Style.baml
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.baml
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.baml
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.baml
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.baml
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.baml
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.baml
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.g.cs
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.g.cs
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.g.cs
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.g.cs
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.g.cs
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.g.cs
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.g.cs
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.g.cs
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\App.g.cs
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.cache
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.lref
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.baml
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.g.resources
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\Clickonce_Deployment_Manager.Properties.Resources.resources
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csproj.GenerateResource.Cache
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe.manifest
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.application
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\CustomMessageBox\COMessageBox.baml
+E:\Projects\ClickOnceDeployment\FromTeam\Source\Clickonce Deployment Manager\obj\Debug\CustomMessageBox\COMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.manifest
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.application
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\CustomMessageBox\COMessageBox.baml
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.baml
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\Style.baml
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.baml
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.baml
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.baml
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.baml
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.baml
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.baml
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\CustomMessageBox\COMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\App.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.cache
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.lref
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.baml
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.g.resources
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\Clickonce_Deployment_Manager.Properties.Resources.resources
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csproj.GenerateResource.Cache
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe.manifest
+E:\Projects\ClickOnceDeployment\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.application
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.manifest
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.application
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\CustomMessageBox\COMessageBox.baml
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.baml
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\Style.baml
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.baml
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.baml
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.baml
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.baml
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.baml
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.baml
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\CustomMessageBox\COMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\App.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.cache
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.lref
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.baml
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.g.resources
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce_Deployment_Manager.Properties.Resources.resources
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csproj.GenerateResource.Cache
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe.manifest
+E:\Projects\ClickOnceDeployment\Final Code\FinalCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.application
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\CustomMessageBox\COMessageBox.baml
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.baml
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Style.baml
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.baml
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.baml
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.baml
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.baml
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.baml
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.baml
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\CustomMessageBox\COMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\App.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.cache
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.lref
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.baml
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.g.resources
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce_Deployment_Manager.Properties.Resources.resources
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csproj.GenerateResource.Cache
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Final Code\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\CustomMessageBox\COMessageBox.baml
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.baml
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\Style.baml
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.baml
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.baml
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.baml
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.baml
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.baml
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.baml
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\CustomMessageBox\COMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.g.cs
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.g.cs
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.g.cs
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.g.cs
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.g.cs
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.g.cs
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.g.cs
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.g.cs
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\App.g.cs
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.cache
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.lref
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.baml
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.g.resources
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\Clickonce_Deployment_Manager.Properties.Resources.resources
+E:\Projects\ClickOnceDeployment\Source\ElavonCopy 64bit\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csproj.GenerateResource.Cache
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\CustomFileMessageBox.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\ExitMessageBox.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\SubFolderListBox.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Style.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\CustomFileMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\ExitMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\SubFolderListBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\StartWindow.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndClientConfiguration.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndDeploymentFinished.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndDestinationFolder.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndPackageInfo.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndProgress.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndReadyToBuild.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\App.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.cache
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.lref
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\WndCustomFiles.baml
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.g.resources
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce_Deployment_Manager.Properties.Resources.resources
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csproj.GenerateResource.Cache
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\Working Copy1\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\MainWindow.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\CustomFileMessageBox.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\ExitMessageBox.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\SubFolderListBox.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\ClientConfiguration.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\DeploymentFinish.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\DestinationFolder.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\MainPage.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\PackageInfo.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\Progress.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\ReadyToBuild.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Styles\Style.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\App.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\MainWindow.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\CustomFileMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\ExitMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\SubFolderListBox.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\ClientConfiguration.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\CustomFiles.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\DeploymentFinish.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\DestinationFolder.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\MainPage.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\PackageInfo.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\Progress.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\ReadyToBuild.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\App.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.cache
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.lref
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Pages\CustomFiles.baml
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.g.resources
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce_Deployment_Manager.Properties.Resources.resources
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csproj.GenerateResource.Cache
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Future Working Copy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\MainWindow.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\CustomFileMessageBox.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\ExitMessageBox.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\ClientConfiguration.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\DeploymentFinish.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\DestinationFolder.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\MainPage.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\PackageInfo.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\Progress.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\ReadyToBuild.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Styles\Style.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\App.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\MainWindow.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\CustomFileMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\ExitMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\ClientConfiguration.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\CustomFiles.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\DeploymentFinish.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\DestinationFolder.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\MainPage.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\PackageInfo.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\Progress.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\ReadyToBuild.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\App.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.cache
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.lref
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Pages\CustomFiles.baml
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.g.resources
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Clickonce_Deployment_Manager.Properties.Resources.resources
+E:\Projects\ClickOnceDeployment\Source\Working copy2\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csproj.GenerateResource.Cache
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\bin\Debug\Pointel.Logger.Core.dll
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\MainWindow.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\CustomFileMessageBox.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\ExitMessageBox.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\ClientConfiguration.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\DeploymentFinish.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\DestinationFolder.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\MainPage.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\PackageInfo.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\Progress.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\ReadyToBuild.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Styles\Style.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\App.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\MainWindow.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\CustomFileMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\ExitMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\ClientConfiguration.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\CustomFiles.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\DeploymentFinish.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\DestinationFolder.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\MainPage.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\PackageInfo.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\Progress.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\ReadyToBuild.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\App.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.cache
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.lref
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Pages\CustomFiles.baml
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.g.resources
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce_Deployment_Manager_32.Properties.Resources.resources
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csproj.GenerateResource.Cache
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\testCopy\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe.config
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.exe
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\bin\Debug\Clickonce Deployment Manager.pdb
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.dll
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.dll
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\bin\Debug\log4net.dll
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.dll
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Core.pdb
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\bin\Debug\ClickOnceDeployment.Data.pdb
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\bin\Debug\Pointel.WebServer.Util.pdb
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csprojResolveAssemblyReference.cache
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\MainWindow.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\CustomFileMessageBox.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\ExitMessageBox.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\ClientConfiguration.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\DeploymentFinish.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\DestinationFolder.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\MainPage.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\PackageInfo.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\Progress.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\ReadyToBuild.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Styles\Style.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\App.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\MainWindow.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\CustomFileMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\MessageBox\ExitMessageBox.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\ClientConfiguration.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\CustomFiles.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\DeploymentFinish.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\DestinationFolder.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\MainPage.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\PackageInfo.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\Progress.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\ReadyToBuild.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\App.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.cache
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager_MarkupCompile.lref
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Pages\CustomFiles.baml
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.g.resources
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Clickonce_Deployment_Manager_32.Properties.Resources.resources
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\obj\Debug\Clickonce Deployment Manager.csproj.GenerateResource.Cache
+E:\Projects\ClickOnceDeployment\Source\Elavon\6 th jan\Source\Clickonce Deployment Manager\bin\Debug\Pointel.Logger.Core.dll

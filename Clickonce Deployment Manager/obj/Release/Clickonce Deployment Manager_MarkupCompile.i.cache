@@ -1,0 +1,20 @@
+﻿Clickonce Deployment Manager
+
+
+winexe
+C#
+.cs
+E:\Projects\ClickOnceDeployment\Source\Elavon\Source\Clickonce Deployment Manager\obj\Release\
+ClickOnce_Deployment_Manager_64
+none
+false
+
+E:\Projects\ClickOnceDeployment\Source\Elavon\Source\Clickonce Deployment Manager\App.xaml
+12-720339960
+
+262057256530
+22333643830
+MainWindow.xaml;MessageBox\CustomFileMessageBox.xaml;MessageBox\ExitMessageBox.xaml;Pages\ClientConfiguration.xaml;Pages\CustomFiles.xaml;Pages\DeploymentFinish.xaml;Pages\DestinationFolder.xaml;Pages\MainPage.xaml;Pages\PackageInfo.xaml;Pages\Progress.xaml;Pages\ReadyToBuild.xaml;Styles\Style.xaml;
+
+True
+
